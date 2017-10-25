@@ -1,0 +1,20 @@
+Choose any one version control tool (free and open-source software with GUI preferred) and learn the basic use of this tool. To demonstrate that you have got familiar with the tool, provide the answers to these questions.
+
+(1) Tell which tool you have chosen and why you have decided to choose this particular tool (for instance, factors related to cost, ease of use, platform constraint, etc.)
+
+The tool I have chose to use is Git. I chose this version control 
+because it is very popular and has Github. It is also free and easy to
+ understand. 
+
+(2) Use your words to describe and pictures (if any, e.g. screenshots) to illustrate how you track the changes as follows (steps I to VI).
+
+I. At the beginning, create a folder named "test" and add the folder into the version control tool tracking system. Then create one file named "001" under this folder. Commit any change if necessary.
+II. Next, add another file named "002" in the same folder and commit the change ("adding") in the version control tool. 
+III. Followed by adding that file, create a branch (namely, "branch-A") in the version control tool and make some changes to the contents in file "001" under the newly created branch. Then commit the change from file "001".
+IV. Create another branch (namely, "branch-B") from the main branch (NOT from "branch-A"!) in the version control tool and make some changes to the contents in file "002". Then commit the change from file "002".
+V. The next step is to merge "branch-A" and "branch-B" and commit the change to the main branch. Record what you see from such an operation and make your own decision which version you want to keep.
+VI. At last, Revise the current change from the merged result to the beginning where there was one file named "001". Record what you see from this operation.
+
+(3) Show a graph of all version related operations from version control tool.
+
+(4) (optional question) If you have encountered any problems or you have discovered any additional features from the version control tool that you are using, make some inputs you would like to mention. 
